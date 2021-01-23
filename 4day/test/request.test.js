@@ -6,7 +6,7 @@ const Events = require('events')
 
 
 describe( 'Request helpers', () => {
-    const timeout = 15
+    const timeout = 100
     let sandbox
     let request
 
